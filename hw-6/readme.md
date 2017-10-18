@@ -1,3 +1,1 @@
-Empty p5 sketch.
-
-Please replace contents of this file with appropriate readme information after finishing your p5 sketch.
+This week I really enjoyed but it was very frustrating. I kept trying a lot of thing but in the end i with what you see here. Its my bug eyed pea. this assignment was had to add all the features i wanted to, but i did manage to get it done. I was trying for the longest time to set it so where my smiles position would effect the background color, but it seemed that no matter how hard I tried it would just mess up the whole project so in the end i decided not to do it. I look forward two next weeks assignment an hope maybe I'll figure out just what was causing the hickup.
