@@ -1,6 +1,3 @@
-Your Name, Your Section Number
-
-[Live Sketch Link](Your Live Link)
 
 
 # HW 7 | Describe then Alter the Bouncing Ball
