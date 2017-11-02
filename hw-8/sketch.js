@@ -1,4 +1,4 @@
-var bubbles;  // Declare objects
+var bubbles; 
 
 //bubble
 function bubble() {
@@ -23,14 +23,14 @@ function setup() {
 
   createCanvas(windowWidth, windowHeight);
     background(150, 89, 100);
-  // Create object
-
 }
 
 function draw() {
   fill(random(0,255),(0,255),(0,255));
+
   bubbles = new bubble();
   bubbles2 = new bubble();
+
     for (var x = 0; x <90; x++){
   bubbles.move();
   bubbles.display();
