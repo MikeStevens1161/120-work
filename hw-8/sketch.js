@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 var bubbles;
+=======
+var bubbles; 
+>>>>>>> d0840144c9642f993bca4cf7eb211f1165bbf9be
 
 //bubble
 function bubble() {
