@@ -1,1 +1,1 @@
-for this week i've really enjoid it i look forward to what is next week. This class is getting more and more entertaining
+for this week i've really enjoid it i look forward to what is next week. This class is getting more and more entertaining i ended up watching a lot of videos this week and can say that the most frustrating part was that some of the code i watched would now work in atom though it was the same person teaching p5.js who we watch in our class website.
