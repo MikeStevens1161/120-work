@@ -1,4 +1,4 @@
-var bubbles; 
+var bubbles;
 
 //bubble
 function bubble() {
@@ -20,7 +20,6 @@ function bubble() {
   };
 }
 function setup() {
-
   createCanvas(windowWidth, windowHeight);
     background(150, 89, 100);
 }
