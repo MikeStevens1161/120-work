@@ -1,10 +1,9 @@
 var stars = [];
 
 function setup(){
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(windowWidth, windowHeight)
   makeStars();
 }
-};
 
 function makeStars(){
   background(0);
@@ -13,7 +12,7 @@ function makeStars(){
       stars.push(new Star());
     }
 
-};
+}
 
   strokeWeight(1);
   if (framecount % 100 === 0)
